@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rio Righten</h1>
 <h3 align="center">A passionate frontend developer (for now)</h3>
 
-<img align="right" alt="coding" width="400" src="![alt text](image.png)" >
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrW7d8WyKBwhzRp2wjQT1aa5vJKp9_jCeSYUEkt-U1R3Q1e4T3jbPkJwjoJkWxH2H8_qM&usqp=CAU" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riorighten&label=Profile%20views&color=0e75b6&style=flat" alt="riorighten" /> </p>
 
