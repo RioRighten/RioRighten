@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riorighten&label=Profile%20views&color=0e75b6&style=flat" alt="riorighten" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riorighten" alt="riorighten" /></a> </p>
+
 
 - 🌱 I’m currently learning **Html, CSS, Javascript, C/C++**
 
